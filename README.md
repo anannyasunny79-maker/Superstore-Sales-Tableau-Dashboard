@@ -3,7 +3,6 @@
 
 An interactive Tableau dashboard designed to help Regional Sales Directors monitor overall business health, analyze product category profitability, and identify underperforming states using dynamic geographic filtering.
 
-👉 **[Interact with the Live Dashboard on Tableau Public](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
 
 ---
 
